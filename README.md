@@ -1,6 +1,6 @@
 ##### GitHub repository containing data and code accompanying the oyster catalyst stable isotope analysis
 
-##Title: Environmental gradients shift basal energy pathways while preserving trophic architecture in oyster reef food webs
+## Title: Environmental gradients shift basal energy pathways while preserving trophic architecture in oyster reef food webs
 
 **Authors:** Shelby L. Ziegler, Elianna M.K. Fox, Robert P. Dunn, James. E. Byers, and Matthew E. Kimball
 
